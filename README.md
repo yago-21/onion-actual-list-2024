@@ -55,6 +55,10 @@
 
 - [DrugHub Market](http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion) - `http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion`
 
+- [Cypher Market](http://6c5qaelgldw6ktl7lkfv2d432qoyo7j7kd22hebwlbx7khpvitb4t4id.onion) - `http://6c5qaelgldw6ktl7lkfv2d432qoyo7j7kd22hebwlbx7khpvitb4t4id.onion`
+
+- [Dark Matter Market](http://darkmatile7wd5oi655lpbsco5nziq43kdb75nxbcqt3h64rany6evad.onion) - `http://darkmatile7wd5oi655lpbsco5nziq43kdb75nxbcqt3h64rany6evad.onion`
+
 - [Go Fish Market](http://gofish4mxkyvdjncmyfm4paptmg4gyatqg7hay3y4kyzzjmw3jarcsyd.onion) - `http://gofish4mxkyvdjncmyfm4paptmg4gyatqg7hay3y4kyzzjmw3jarcsyd.onion`
 
 - [Nemesis Market](http://zjaibnwx4lykbsxhvd2tllhqinpkfgmiuwirqepswutth77fuhl67qad.onion) - `http://zjaibnwx4lykbsxhvd2tllhqinpkfgmiuwirqepswutth77fuhl67qad.onion`
@@ -63,13 +67,9 @@
 
 - [Ares Market](http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion) - `http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion`
 
-- [Cypher Market](http://6c5qaelgldw6ktl7lkfv2d432qoyo7j7kd22hebwlbx7khpvitb4t4id.onion) - `http://6c5qaelgldw6ktl7lkfv2d432qoyo7j7kd22hebwlbx7khpvitb4t4id.onion`
-
 - [Archetyp Market](http://arche65jhbxenremkwwwpy2ulo2zdhbr3jtykqh65igcw6hfpzpdgkyd.onion) - `http://arche65jhbxenremkwwwpy2ulo2zdhbr3jtykqh65igcw6hfpzpdgkyd.onion`
 
 - [Drugula Market](http://drugula2p4n2xxjjr6goeupgipkdiztemvxdkdx4ds75f5ijj4w27syd.onion) - `http://drugula2p4n2xxjjr6goeupgipkdiztemvxdkdx4ds75f5ijj4w27syd.onion`
-
-- [Dark Matter Market](http://darkmatile7wd5oi655lpbsco5nziq43kdb75nxbcqt3h64rany6evad.onion) - `http://darkmatile7wd5oi655lpbsco5nziq43kdb75nxbcqt3h64rany6evad.onion`
 
 - [Kingdom Market](http://kingdomnf4eyeacbzpsrhjna5xiksnp6ddxhskuj6gyvbb3kzteydqid.onion) - `http://kingdomnf4eyeacbzpsrhjna5xiksnp6ddxhskuj6gyvbb3kzteydqid.onion`
 
