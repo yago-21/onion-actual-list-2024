@@ -51,6 +51,8 @@
 
 - [MGM Grand Market](http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion) - `http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion`
 
+- [Super Market](http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion) - `http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion`
+
 - [DrugHub Market](http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion) - `http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion`
 
 - [Go Fish Market](http://gofish4mxkyvdjncmyfm4paptmg4gyatqg7hay3y4kyzzjmw3jarcsyd.onion) - `http://gofish4mxkyvdjncmyfm4paptmg4gyatqg7hay3y4kyzzjmw3jarcsyd.onion`
@@ -60,8 +62,6 @@
 - [Kerberos Market](http://kerberoxl2y6mtsxcr5fiffoodu4nvbtnukshtgmexnjareza7uwh2qd.onion) - `http://kerberoxl2y6mtsxcr5fiffoodu4nvbtnukshtgmexnjareza7uwh2qd.onion`
 
 - [Ares Market](http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion) - `http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion`
-
-- [Super Market](http://superxx2a6dn5hjuewfcpt6ko3h2jvmc4kuq7jtztg7hdxq64cmowyyd.onion) - `http://superxx2a6dn5hjuewfcpt6ko3h2jvmc4kuq7jtztg7hdxq64cmowyyd.onion`
 
 - [Cypher Market](http://6c5qaelgldw6ktl7lkfv2d432qoyo7j7kd22hebwlbx7khpvitb4t4id.onion) - `http://6c5qaelgldw6ktl7lkfv2d432qoyo7j7kd22hebwlbx7khpvitb4t4id.onion`
 
